@@ -62,6 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     Text("Roll:"),
                     Spacer(),
                     Text("202102006"),
+                    Text("202102006"),
+                    Text("202102006"),
                   ],
                 ),
               ),
